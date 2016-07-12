@@ -1,0 +1,11 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "python.linting.lintOnTextChange": false,
+    "python.linting.pylintEnabled": false,
+    "python.linting.pep8Enabled": true,
+    "python.linting.pep8Path": "/Users/binss/Library/Python/2.7/bin/pep8",
+    "python.formatting.autopep8Path": "/Users/binss/Library/Python/2.7/bin/autopep8",
+    "files.trimTrailingWhitespace": true,
+    "window.openFilesInNewWindow": false,
+    "editor.wrappingColumn": 0,
+}

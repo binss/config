@@ -1,0 +1,17 @@
+{
+    "name": "theme-Monokai Bright",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": ">=1.3.0"
+    },
+    "publisher": "binss",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai Bright",
+                "uiTheme": "vs-dark", // use "vs" to select the light UI theme
+                "path": "./themes/Monokai Bright.tmTheme"
+            }
+        ]
+    }
+}
